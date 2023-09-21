@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="192.168.43.86.Wistful.sa"
+  DTS:DTSID="{BA8AA9E2-FE13-40F6-B9EC-EADB8913F331}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=192.168.43.86;User ID=sa;Initial Catalog=Wistful;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxw9Fzww5GEasZyR+PwcuEQAAAAACAAAAAAAQZgAAAAEAACAAAAClYYkaQz0/AQof8TPRFddbZc5N2ksk89qhdKNwVgGOBwAAAAAOgAAAAAIAACAAAADURcQyHfA8tVnMBT4hUuEr2jwhObfgyNt8j+G071LSbIAAAACQyWsMIOP7F/K4LCbVbXsghOTFt4y++NCoz2cu8l5dZfNbTsG0XzoyLJ3crPgzPFEnDYdvY7cR97zvWmU/fUbh0wxnQ1YQZC+CP5QJwQKpVImAKI3B7NL8ErC9Jwzo/uraUAYsbWQG9hoYh2oYYlqtXT3c2ZW/o55qo3jCdTaQxUAAAAANkuD6zuSaW4YYpGWqn8WwYR3R6kGVW3x7XSqspqgqChysBMHqrYwZph8wCfsvJiD86cd6Bhy++6rdoxf+Ikkk</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
